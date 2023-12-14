@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929960652258",
+    "project_id": "tap-pro-e00c8",
+    "storage_bucket": "tap-pro-e00c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929960652258:android:b94d200d4f95ffe7585dbb",
+        "android_client_info": {
+          "package_name": "com.example.tap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KViZ4sWVwhCRQKdFfCOpTYL7mmqIRis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
